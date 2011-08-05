@@ -1,11 +1,12 @@
 <?php
 /**
  * Plugin Name: Google Social Analytics Extension(extends your Google Analytics)
- * Version: 1.0.0
  * Description: Extend your Google Analytics to track social buttons like the Facebook "like" , the Twitter "Tweet".  This plugin only contains additional script for Google Analytics.  So you need embed google analytics by yourself with another way. If your Analytics supports social tracking, please do not install it.
  * Author: Mitsuhiro Inomata
+ * Version: 1.0.0
  * Requires at least: 2.8
  * Author URI: http://www.ecoop.net/
+ * Plugin URI: http://www.ecoop.net/memo/archives/social-google-analytics-with-wourdpres.html
  * License: GPL
  */
 function embed_google_social_analytics(){
